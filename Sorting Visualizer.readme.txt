@@ -1,0 +1,35 @@
+Sorting Visualizer
+
+The Sorting Visualizer is a Java program designed to visualize various sorting algorithms in action. It provides an interactive graphical interface that allows users to input a list of numbers and select a sorting algorithm to visualize the sorting process.
+
+Features
+
+- Visualize sorting algorithms in real-time.
+- Input custom list of numbers or generate random lists.
+- Supported sorting algorithms:
+  - Bubble Sort
+  - Insertion Sort
+  - Selection Sort
+
+Getting Started
+
+Prerequisites
+
+- Java Development Kit (JDK) installed on your system.
+- Basic understanding of Java programming.
+
+Running the Program
+
+1. Compile the Java source files.
+2. Execute the main class `SortingVisualizer`.
+3. The program window will appear, allowing you to input a list of numbers and select a sorting algorithm.
+
+ Usage
+
+1. Input the list of numbers in the provided text field. Separate each number by a space.
+2. Click the "Generate Random Array" button to generate a random list of numbers.
+3. Choose the desired sorting algorithm from the dropdown menu.
+4. Click the "Start" button to begin the sorting process.
+5. Use the "Pause" button to pause/resume the sorting animation.
+6. Click the "Reset" button to reset the sorting process and input data.
+
